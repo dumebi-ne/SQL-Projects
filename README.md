@@ -68,3 +68,25 @@ The analysis revealed a clear correlation between higher vaccination rates and l
 *	Implement advanced time-series analysis.
 
 *	Create dashboard visualizations using Tableau or Power BI.
+
+
+<img width="940" alt="Screenshot 2025-03-30 at 4 27 14 PM" src="https://github.com/user-attachments/assets/f7428f15-f2b0-4c36-83f7-bfbc0340c02e" />
+
+<img width="940" alt="Screenshot 2025-03-30 at 4 18 28 PM" src="https://github.com/user-attachments/assets/7cbfc5cf-9f48-47ac-b59a-9c061979be3c" />
+
+<img width="941" alt="Screenshot 2025-03-30 at 4 20 04 PM" src="https://github.com/user-attachments/assets/a88d7d03-74ef-4ef2-92a0-75c5c5a0e5a3" />
+
+<img width="939" alt="Screenshot 2025-03-30 at 4 20 40 PM" src="https://github.com/user-attachments/assets/835dbd79-7f68-46a4-8482-e2146dea6c38" />
+
+<img width="939" alt="Screenshot 2025-03-30 at 4 22 55 PM" src="https://github.com/user-attachments/assets/f80c7447-bc80-4789-b22c-dc1fdd1c7597" />
+
+<img width="940" alt="Screenshot 2025-03-30 at 4 24 06 PM" src="https://github.com/user-attachments/assets/bdf6cf48-5042-4177-ac6a-3a9ce277c155" />
+
+<img width="939" alt="Screenshot 2025-03-30 at 4 25 50 PM" src="https://github.com/user-attachments/assets/0ed8b41c-eddb-4b3f-a73b-83cc1f5d2549" />
+
+
+
+
+
+
+
