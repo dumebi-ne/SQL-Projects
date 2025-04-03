@@ -67,6 +67,23 @@ GROUP BY
 ORDER BY
     PercentagePopulationInfected DESC;
 
+-- For Tableau Visualizations
+SELECT
+    location,
+    population,
+	date,
+    MAX(total_cases) AS HighestInfectionCount,
+    ROUND(MAX(total_cases::DECIMAL / population) * 100, 2) AS PercentagePopulationInfected
+FROM
+    coviddeaths
+WHERE
+	total_cases IS NOT NULL
+	AND continent IS NOT NULL
+GROUP BY
+    location, population, date
+ORDER BY
+    location ASC, date ASC;
+
 -- Method 3 multiplies "total_cases" by 100.0 to implicitly cast "total_cases" to DECIMAL, 
 -- ensuring the result is a decimal instead of an integer. 	
 SELECT
