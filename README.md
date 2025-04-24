@@ -64,7 +64,8 @@ The analysis revealed a clear correlation between higher vaccination rates and l
 **Visualization**
 
 Feel free check out my visualization and dashboard on Tableau from the link below
-Link: https://public.tableau.com/views/Covid19_17451196013960/Covid19Analysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/Covid19_17451196013960/Covid19Analysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Future Improvements**
 
