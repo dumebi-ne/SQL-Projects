@@ -79,6 +79,7 @@ https://public.tableau.com/views/Covid19_17451196013960/Covid19Analysis?:languag
 
 
 
+
 **SQL Query Results**
 
 
