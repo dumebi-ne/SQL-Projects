@@ -61,15 +61,20 @@ The project demonstrates the following SQL concepts:
 
 The analysis revealed a clear correlation between higher vaccination rates and lower death percentages. Countries with greater vaccination coverage tended to experience reduced mortality rates, underscoring the critical role of immunization in strengthening immune defenses and mitigating the severity of the virus.
 
+**Visualization**
+Feel free check out my visualization and dashboard on Tableau from the link below
+Link: https://public.tableau.com/views/Covid19_17451196013960/Covid19Analysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 **Future Improvements**
 
 *	Automate data updates from external COVID-19 sources.
 
 *	Implement advanced time-series analysis.
 
-*	Create dashboard visualizations using Tableau or Power BI.
+**Visualization Sneak Peek 👀😂**
+<img width="976" alt="Screenshot 2025-04-24 at 12 49 29 PM" src="https://github.com/user-attachments/assets/4c0ab02f-e40a-47fe-9c10-a3c9221d478c" />
 
-
+**SQL Query Results**
 <img width="940" alt="Screenshot 2025-03-30 at 4 27 14 PM" src="https://github.com/user-attachments/assets/f7428f15-f2b0-4c36-83f7-bfbc0340c02e" />
 
 <img width="940" alt="Screenshot 2025-03-30 at 4 18 28 PM" src="https://github.com/user-attachments/assets/7cbfc5cf-9f48-47ac-b59a-9c061979be3c" />
