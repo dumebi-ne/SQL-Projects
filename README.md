@@ -73,12 +73,14 @@ https://public.tableau.com/views/Covid19_17451196013960/Covid19Analysis?:languag
 
 *	Implement advanced time-series analysis.
 
-**Visualization Sneak Peek 👀😂**
+**Visualization Sneak Peek 👀**
 
 <img width="976" alt="Screenshot 2025-04-24 at 12 49 29 PM" src="https://github.com/user-attachments/assets/4c0ab02f-e40a-47fe-9c10-a3c9221d478c" />
 
 
+
 **SQL Query Results**
+
 
 <img width="940" alt="Screenshot 2025-03-30 at 4 27 14 PM" src="https://github.com/user-attachments/assets/f7428f15-f2b0-4c36-83f7-bfbc0340c02e" />
 
